@@ -1,0 +1,11 @@
+# datasets
+*.json
+*.m2
+*.orig
+
+# entire wi+locness folder
+**/wi+locness/**
+
+# IDE files (PyCharm, Vscode, etc)
+.idea/
+.vscode/
