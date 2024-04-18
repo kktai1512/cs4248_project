@@ -3,9 +3,11 @@
 *.m2
 *.orig
 
-# entire wi+locness folder
-**/wi+locness/**
+
+**/raw_data/**
 
 # IDE files (PyCharm, Vscode, etc)
 .idea/
 .vscode/
+
+*/.DS_Store
